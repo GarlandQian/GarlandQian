@@ -3,5 +3,4 @@
 ![GarlandQian's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlandQian&layout=compact&hide_border=true&langs_count=10)
 [![GarlandQian](https://github-profile-trophy.vercel.app/?username=GarlandQian)](https://github.com/ryo-ma/github-profile-trophy)
 ![GarlandQian](https://visitor-badge.glitch.me/badge?page_id=GarlandQian)
-[![GarlandQian's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GarlandQian&theme=xcode)](https://github.com/GarlandQian)
-![GarlandQian](https://stats.justsong.cn/api/csdn?id=GarlandQian)
+[![GarlandQian's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GarlandQian&theme=xcode)]
