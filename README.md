@@ -6,6 +6,12 @@
 [![GarlandQian's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GarlandQian&theme=xcode)] -->
 ### Hi there 👋
 
+- 😄 Read more about my blog: [GarlandQian](https://garlandqian.github.io)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarlandQian&count_private=true&show_icons=true&theme=onedark)](https://github.com/GarlandQian/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlandQian&layout=compact)](https://github.com/GarlandQian/github-readme-stats)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/GarlandQian/count.svg) visitor, thank you!
+
 <!--
 **GarlandQian/GarlandQian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
