@@ -16,7 +16,7 @@
 
 ## Tech stack
 ### Front-end
-![Vue](https://img.shields.io/badge/-Vue-61DAFB?style=flat&logo=Vue&logoColor=white)
+![Vue3](https://img.shields.io/badge/-Vue3-61DAFB?style=flat&logo=Vue3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
