@@ -16,14 +16,14 @@
 
 ## Tech stack
 ### Front-end
-![Vue3](https://img.shields.io/badge/-Vue3-61DAFB?style=flat&logo=Vue3&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### Back-end
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Mysql](https://img.shields.io/badge/-MySql-336791?style=flat&logo=mysql&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarlandQian&count_private=true&show_icons=true&theme=onedark)](https://github.com/GarlandQian/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlandQian&layout=compact)](https://github.com/GarlandQian/github-readme-stats)
 
